@@ -1,0 +1,19 @@
+.Name {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.Elements {
+    color: white;
+    background-color: grey;
+}
+
+#text {
+    background-color: black;
+    font-size: 25px;
+}
+
+.food {
+    background: black;
+}
